@@ -1,0 +1,6 @@
+app/* linguist-documentation=false
+app/* linguist-vendored
+Back-End_API/* linguist-documentation=false
+Back-End_API/* linguist-vendored
+Front-End React_UI/* linguist-vendored
+Front-End React_UI/* linguist-documentation=false
